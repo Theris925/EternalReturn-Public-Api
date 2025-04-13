@@ -10,7 +10,7 @@ Maybe it will be published as library later.
 ## Usage:
 Example:
 ```
-erbsClient = ErbsClient('api-key-here')
+erbsClient = ErbsApiClient('api-key-here')
 print(erbsClient.get_current_season())
 ```
 
